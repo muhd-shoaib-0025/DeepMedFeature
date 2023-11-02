@@ -1,0 +1,11 @@
+/.idea
+/__pycache__
+/biobert_en
+/results
+/dataset/DrugBank
+/dataset/MedLine
+/venv/
+*.png
+*.tex
+smiles.ckpt
+fasttext-ru.bin
