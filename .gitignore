@@ -9,3 +9,4 @@
 *.tex
 smiles.ckpt
 fasttext-ru.bin
+rdf2vec.txt
